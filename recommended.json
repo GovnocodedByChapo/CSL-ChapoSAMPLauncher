@@ -1,1 +1,7 @@
-[]
+[
+    {"name": "Trinity Roleplay #1", "IP": "185.169.134.84", "port": 7777"},
+    {"name": "Trinity Roleplay #2", "IP": "185.169.134.85", "port": 7777"},
+    {"name": "Gambit RP Los Santos", "IP": "80.66.82.250", "port": 7777"},
+    {"name": "Gambit RP San Fierro", "IP": "80.66.82.251", "port": 7777"},
+    {"name": "Gambit RP Las Venturas", "IP": "80.66.82.252", "port": 7777"},
+]
