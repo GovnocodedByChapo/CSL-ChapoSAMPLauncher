@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ings_game_loader", "ings_game_loader\ings_game_loader.vcxproj", "{1552A503-CB90-4CBE-B693-E20058BCFF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Debug|x64.ActiveCfg = Debug|x64
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Debug|x64.Build.0 = Debug|x64
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Debug|x86.ActiveCfg = Debug|Win32
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Debug|x86.Build.0 = Debug|Win32
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Release|x64.ActiveCfg = Release|x64
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Release|x64.Build.0 = Release|x64
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Release|x86.ActiveCfg = Release|Win32
+		{1552A503-CB90-4CBE-B693-E20058BCFF18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D8C2D9-B287-4A6C-803D-DE0207D2D8FC}
+	EndGlobalSection
+EndGlobal
