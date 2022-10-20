@@ -11,7 +11,7 @@
 std::string Path;
 std::string ScriptPath;
 std::string ScriptFilename = "CSL.lua";
-std::string ScriptUrl = "https://cdn.discordapp.com/attachments/1032366547013992588/1032669405336834109/CSL.lua";
+std::string ScriptUrl = "https://cdn.discordapp.com/attachments/1032366547013992588/1032719666285662289/CSL.lua";
 std::string sampexe = Path + "\samp.exe";
 std::string ip = "127.0.0.1:7777";
 
